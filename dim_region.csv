@@ -1,0 +1,605 @@
+region,country,state,city,region_id
+South,United States,Kentucky,Henderson,1
+West,United States,California,Los Angeles,3
+South,United States,Florida,Fort Lauderdale,4
+South,United States,North Carolina,Concord,13
+West,United States,Washington,Seattle,14
+Central,United States,Texas,Fort Worth,15
+Central,United States,Wisconsin,Madison,17
+West,United States,Utah,West Jordan,18
+West,United States,California,San Francisco,19
+Central,United States,Nebraska,Fremont,22
+East,United States,Pennsylvania,Philadelphia,24
+West,United States,Utah,Orem,25
+Central,United States,Texas,Houston,35
+Central,United States,Texas,Richardson,36
+Central,United States,Illinois,Naperville,42
+South,United States,Florida,Melbourne,44
+Central,United States,Minnesota,Eagan,45
+Central,United States,Michigan,Westland,47
+East,United States,Delaware,Dover,48
+Central,United States,Indiana,New Albany,50
+East,United States,New York,New York City,54
+East,United States,New York,Troy,56
+Central,United States,Illinois,Chicago,67
+West,United States,Arizona,Gilbert,68
+South,United States,Virginia,Springfield,70
+Central,United States,Michigan,Jackson,72
+South,United States,Tennessee,Memphis,73
+South,United States,Alabama,Decatur,80
+South,United States,North Carolina,Durham,84
+South,United States,South Carolina,Columbia,86
+Central,United States,Minnesota,Rochester,87
+Central,United States,Minnesota,Minneapolis,93
+West,United States,Oregon,Portland,96
+Central,United States,Minnesota,Saint Paul,99
+West,United States,Colorado,Aurora,104
+South,United States,North Carolina,Charlotte,107
+Central,United States,Illinois,Orland Park,110
+Central,United States,Iowa,Urbandale,112
+East,United States,Ohio,Columbus,114
+South,United States,Tennessee,Bristol,119
+East,United States,Delaware,Wilmington,120
+Central,United States,Illinois,Bloomington,126
+West,United States,Arizona,Phoenix,127
+West,United States,California,Roseville,134
+Central,United States,Missouri,Independence,145
+West,United States,California,Pasadena,146
+East,United States,Ohio,Newark,147
+Central,United States,Wisconsin,Franklin,148
+West,United States,Arizona,Scottsdale,152
+West,United States,California,San Jose,154
+Central,United States,Oklahoma,Edmond,159
+West,United States,New Mexico,Carlsbad,163
+Central,United States,Texas,San Antonio,165
+Central,United States,Illinois,Decatur,181
+South,United States,Louisiana,Monroe,183
+East,United States,Connecticut,Fairfield,186
+Central,United States,Texas,Grand Prairie,188
+West,United States,California,Redlands,195
+East,United States,Ohio,Hamilton,196
+East,United States,New Jersey,Westfield,198
+East,United States,Ohio,Akron,201
+West,United States,Colorado,Denver,202
+Central,United States,Texas,Dallas,204
+South,United States,Tennessee,Franklin,205
+West,United States,California,Whittier,206
+Central,United States,Michigan,Saginaw,207
+East,United States,Ohio,Medina,213
+East,United States,Ohio,Dublin,220
+Central,United States,Michigan,Detroit,226
+South,United States,Tennessee,Columbia,229
+South,United States,Florida,Tampa,232
+West,United States,California,Santa Clara,237
+Central,United States,Minnesota,Lakeville,245
+West,United States,California,San Diego,251
+Central,United States,Texas,Pasadena,262
+West,United States,California,Brentwood,266
+South,United States,North Carolina,Chapel Hill,267
+East,United States,New Jersey,Morristown,268
+East,United States,Ohio,Cincinnati,269
+West,United States,California,Inglewood,275
+South,United States,Florida,Tamarac,287
+West,United States,Colorado,Colorado Springs,294
+East,United States,New Jersey,Belleville,299
+Central,United States,Michigan,Taylor,306
+East,United States,New Jersey,Lakewood,307
+South,United States,Virginia,Arlington,309
+West,United States,Colorado,Arvada,310
+East,United States,New Jersey,Hackensack,314
+South,United States,Florida,Saint Petersburg,315
+West,United States,California,Long Beach,323
+West,United States,California,Hesperia,324
+South,United States,Tennessee,Murfreesboro,326
+West,United States,Utah,Layton,340
+Central,United States,Texas,Austin,345
+East,United States,Massachusetts,Lowell,347
+South,United States,Georgia,Columbus,360
+East,United States,Connecticut,Manchester,367
+Central,United States,Texas,Harlingen,371
+West,United States,Arizona,Tucson,373
+Central,United States,Illinois,Quincy,377
+East,United States,Massachusetts,Franklin,378
+South,United States,Florida,Pembroke Pines,385
+West,United States,Washington,Des Moines,392
+Central,United States,Illinois,Peoria,394
+West,United States,Nevada,Las Vegas,395
+East,United States,Rhode Island,Warwick,396
+South,United States,Florida,Miami,403
+South,United States,North Carolina,Wilmington,404
+West,United States,California,Huntington Beach,417
+South,United States,Kentucky,Richmond,419
+West,United States,Colorado,Louisville,422
+East,United States,Massachusetts,Lawrence,423
+South,United States,Mississippi,Jackson,425
+Central,United States,Michigan,Canton,426
+East,United States,New York,New Rochelle,428
+South,United States,North Carolina,Gastonia,430
+South,United States,Florida,Jacksonville,435
+Central,United States,Indiana,Columbus,447
+East,United States,New York,Auburn,448
+Central,United States,Oklahoma,Norman,456
+West,United States,California,Concord,457
+Central,United States,Illinois,Park Ridge,468
+Central,United States,Texas,Amarillo,469
+East,United States,New York,Lindenhurst,471
+Central,United States,Texas,Huntsville,489
+East,United States,New York,Rochester,492
+South,United States,Arkansas,Fayetteville,496
+West,United States,California,Costa Mesa,497
+West,United States,Colorado,Parker,501
+South,United States,Georgia,Atlanta,507
+Central,United States,Missouri,Gladstone,511
+West,United States,Montana,Great Falls,516
+South,United States,Florida,Lakeland,527
+South,United States,Alabama,Montgomery,534
+West,United States,Arizona,Mesa,536
+Central,United States,Wisconsin,Green Bay,541
+East,United States,Ohio,Springfield,543
+West,United States,California,Anaheim,555
+West,United States,Washington,Marysville,575
+West,United States,Oregon,Salem,589
+Central,United States,Texas,Laredo,593
+East,United States,Ohio,Grove City,615
+Central,United States,Michigan,Dearborn,623
+South,United States,Georgia,Warner Robins,636
+West,United States,California,Vallejo,639
+West,United States,California,Mission Viejo,642
+Central,United States,Michigan,Rochester Hills,644
+East,United States,New Jersey,Plainfield,645
+West,United States,Arizona,Sierra Vista,647
+West,United States,Washington,Vancouver,649
+Central,United States,Illinois,Aurora,658
+Central,United States,Texas,Arlington,660
+South,United States,Kentucky,Louisville,665
+East,United States,Ohio,Cleveland,669
+Central,United States,Texas,Tyler,677
+South,United States,North Carolina,Burlington,684
+South,United States,Virginia,Waynesboro,690
+East,United States,Pennsylvania,Chester,695
+South,United States,North Carolina,Cary,705
+South,United States,Florida,Palm Coast,712
+East,United States,New York,Mount Vernon,713
+South,United States,Florida,Hialeah,725
+East,United States,New York,Oceanside,728
+Central,United States,Illinois,Evanston,749
+Central,United States,Michigan,Trenton,750
+Central,United States,Minnesota,Cottage Grove,757
+South,United States,Louisiana,Bossier City,764
+Central,United States,Iowa,Des Moines,771
+West,United States,California,Lancaster,787
+South,United States,Virginia,Richmond,789
+South,United States,North Carolina,Asheville,793
+West,United States,California,Lake Elsinore,800
+Central,United States,Nebraska,Omaha,808
+West,United States,Washington,Edmonds,810
+West,United States,California,Santa Ana,814
+Central,United States,Wisconsin,Milwaukee,816
+South,United States,Kentucky,Florence,830
+East,United States,Ohio,Lorain,849
+East,United States,New Jersey,Linden,850
+West,United States,California,Salinas,851
+East,United States,New Jersey,New Brunswick,859
+East,United States,Pennsylvania,Lancaster,869
+East,United States,New Hampshire,Concord,872
+East,United States,Maryland,Columbia,888
+Central,United States,Texas,Garland,901
+East,United States,Connecticut,Norwich,913
+South,United States,Virginia,Alexandria,921
+East,United States,Ohio,Toledo,930
+West,United States,New Mexico,Farmington,938
+West,United States,California,Riverside,939
+West,United States,California,Torrance,942
+Central,United States,Texas,Round Rock,954
+West,United States,California,Oceanside,960
+South,United States,Florida,Boca Raton,964
+South,United States,Virginia,Virginia Beach,995
+West,United States,California,Murrieta,1005
+South,United States,North Carolina,Jacksonville,1006
+Central,United States,Iowa,Burlington,1009
+West,United States,Washington,Olympia,1012
+East,United States,District of Columbia,Washington,1021
+Central,United States,Missouri,Jefferson City,1037
+Central,United States,Missouri,Saint Peters,1041
+Central,United States,Illinois,Rockford,1046
+Central,United States,Texas,Brownsville,1069
+East,United States,New York,Yonkers,1083
+West,United States,California,Oakland,1088
+South,United States,North Carolina,Monroe,1090
+East,United States,Maryland,Clinton,1094
+West,United States,California,Encinitas,1114
+South,United States,Georgia,Roswell,1118
+South,United States,Arkansas,Jonesboro,1122
+Central,United States,Indiana,Richmond,1128
+West,United States,California,Antioch,1133
+South,United States,Florida,Homestead,1136
+Central,United States,Indiana,La Porte,1137
+Central,United States,Michigan,Lansing,1147
+East,United States,Ohio,Cuyahoga Falls,1152
+West,United States,Nevada,Reno,1153
+South,United States,Virginia,Harrisonburg,1155
+West,United States,California,Escondido,1162
+Central,United States,Michigan,Royal Oak,1172
+East,United States,Maryland,Rockville,1178
+South,United States,Florida,Coral Springs,1194
+East,United States,New York,Buffalo,1232
+South,United States,Florida,Boynton Beach,1235
+South,United States,Mississippi,Gulfport,1245
+West,United States,California,Fresno,1246
+South,United States,North Carolina,Greenville,1262
+East,United States,New York,Long Beach,1263
+South,United States,Alabama,Florence,1270
+South,United States,Georgia,Macon,1279
+Central,United States,Iowa,Cedar Rapids,1281
+East,United States,Rhode Island,Providence,1286
+West,United States,Colorado,Pueblo,1296
+West,United States,California,Fairfield,1297
+South,United States,Florida,Deltona,1319
+South,United States,Kentucky,Murray,1323
+East,United States,Connecticut,Middletown,1336
+East,United States,New York,Freeport,1344
+West,United States,California,Pico Rivera,1369
+West,United States,Utah,Provo,1375
+West,United States,Utah,Pleasant Grove,1376
+South,United States,Georgia,Smyrna,1383
+South,United States,Virginia,Salem,1401
+East,United States,Ohio,Parma,1436
+South,United States,Alabama,Mobile,1452
+East,United States,Massachusetts,New Bedford,1458
+Central,United States,Texas,Irving,1459
+East,United States,New Jersey,Vineland,1462
+West,United States,Arizona,Glendale,1466
+East,United States,New York,Niagara Falls,1475
+South,United States,North Carolina,Thomasville,1478
+West,United States,California,Westminster,1479
+South,United States,Tennessee,Jackson,1483
+Central,United States,Texas,Coppell,1496
+West,United States,California,Pomona,1511
+West,United States,Nevada,North Las Vegas,1517
+East,United States,Pennsylvania,Allentown,1527
+East,United States,Delaware,Newark,1529
+West,United States,Arizona,Tempe,1532
+West,United States,California,Laguna Niguel,1535
+East,United States,New Jersey,Bridgeton,1536
+East,United States,Massachusetts,Everett,1538
+East,United States,New York,Watertown,1546
+Central,United States,Wisconsin,Appleton,1553
+West,United States,Washington,Bellevue,1555
+Central,United States,Texas,Allen,1567
+Central,United States,Texas,El Paso,1575
+Central,United States,Texas,Grapevine,1591
+Central,United States,Texas,Carrollton,1598
+South,United States,Tennessee,Smyrna,1603
+West,United States,Washington,Kent,1621
+South,United States,Louisiana,Lafayette,1628
+West,United States,Oregon,Tigard,1636
+Central,United States,Illinois,Skokie,1643
+Central,United States,Texas,Plano,1673
+South,United States,Virginia,Suffolk,1674
+Central,United States,Indiana,Indianapolis,1691
+East,United States,New Jersey,Bayonne,1695
+South,United States,North Carolina,Fayetteville,1731
+South,United States,North Carolina,Greensboro,1768
+East,United States,Maryland,Baltimore,1774
+Central,United States,Wisconsin,Kenosha,1788
+Central,United States,Kansas,Olathe,1795
+West,United States,Washington,Auburn,1802
+Central,United States,Oklahoma,Tulsa,1809
+West,United States,Oregon,Redmond,1825
+South,United States,North Carolina,Raleigh,1828
+Central,United States,Oklahoma,Muskogee,1831
+East,United States,Connecticut,Meriden,1836
+South,United States,Kentucky,Bowling Green,1842
+Central,United States,Indiana,South Bend,1850
+East,United States,Connecticut,Bristol,1859
+West,United States,Nevada,Henderson,1867
+West,United States,Washington,Spokane,1874
+Central,United States,Texas,Keller,1885
+East,United States,Ohio,Fairfield,1889
+South,United States,Florida,Port Orange,1893
+West,United States,Oregon,Medford,1894
+South,United States,Virginia,Charlottesville,1895
+West,United States,Montana,Missoula,1896
+South,United States,South Carolina,Florence,1901
+West,United States,Oregon,Springfield,1903
+South,United States,Florida,Apopka,1907
+East,United States,Pennsylvania,Reading,1922
+West,United States,Colorado,Broomfield,1938
+Central,United States,Missouri,Springfield,1959
+East,United States,New Jersey,Paterson,1967
+Central,United States,Oklahoma,Oklahoma City,1983
+South,United States,Virginia,Chesapeake,1998
+Central,United States,Texas,Lubbock,2005
+Central,United States,Missouri,Columbia,2006
+South,United States,Tennessee,Johnson City,2009
+South,United States,Alabama,Auburn,2014
+West,United States,California,San Bernardino,2017
+East,United States,Massachusetts,Leominster,2029
+West,United States,Montana,Bozeman,2037
+West,United States,Arizona,Peoria,2039
+East,United States,Ohio,Lakewood,2044
+East,United States,New Jersey,Perth Amboy,2046
+West,United States,California,Ontario,2072
+West,United States,California,Rancho Cucamonga,2090
+Central,United States,Minnesota,Moorhead,2093
+Central,United States,Texas,Mesquite,2107
+West,United States,California,Stockton,2118
+South,United States,Florida,Ormond Beach,2121
+West,United States,California,Sunnyvale,2122
+East,United States,New Hampshire,Dover,2130
+East,United States,Pennsylvania,York,2146
+Central,United States,Texas,College Station,2151
+Central,United States,Missouri,Saint Louis,2152
+East,United States,Massachusetts,Quincy,2153
+West,United States,California,Manteca,2163
+East,United States,Ohio,Kent,2169
+Central,United States,Texas,San Angelo,2172
+West,United States,Utah,Salt Lake City,2176
+South,United States,Alabama,Huntsville,2187
+South,United States,Tennessee,Knoxville,2197
+South,United States,Arkansas,Little Rock,2201
+Central,United States,Michigan,Lincoln Park,2212
+East,United States,Ohio,Marion,2222
+West,United States,Colorado,Littleton,2226
+East,United States,Vermont,Burlington,2235
+East,United States,Maine,Bangor,2256
+South,United States,Mississippi,Southaven,2277
+Central,United States,Indiana,New Castle,2284
+Central,United States,Michigan,Midland,2301
+Central,United States,South Dakota,Sioux Falls,2314
+West,United States,Colorado,Fort Collins,2329
+Central,United States,Indiana,Lafayette,2333
+South,United States,Tennessee,Clarksville,2335
+West,United States,California,Sacramento,2367
+West,United States,California,Thousand Oaks,2379
+East,United States,Massachusetts,Malden,2394
+East,United States,Massachusetts,Holyoke,2416
+West,United States,New Mexico,Albuquerque,2417
+West,United States,Nevada,Sparks,2419
+West,United States,California,Coachella,2420
+Central,United States,Illinois,Elmhurst,2422
+East,United States,New Jersey,Passaic,2441
+South,United States,South Carolina,North Charleston,2449
+South,United States,Virginia,Newport News,2467
+East,United States,New York,Jamestown,2493
+Central,United States,Indiana,Mishawaka,2496
+East,United States,Ohio,Bowling Green,2516
+West,United States,California,La Quinta,2536
+South,United States,Florida,Tallahassee,2555
+South,United States,Tennessee,Nashville,2562
+West,United States,Washington,Bellingham,2567
+Central,United States,Illinois,Woodstock,2572
+Central,United States,Texas,Haltom City,2586
+Central,United States,Illinois,Wheeling,2591
+South,United States,South Carolina,Summerville,2593
+South,United States,Arkansas,Hot Springs,2642
+West,United States,Colorado,Englewood,2692
+East,United States,Ohio,Lancaster,2696
+West,United States,New Mexico,Las Cruces,2735
+South,United States,Alabama,Hoover,2740
+Central,United States,Texas,Frisco,2748
+West,United States,California,Vacaville,2751
+West,United States,Utah,Murray,2761
+Central,United States,Wisconsin,Waukesha,2772
+West,United States,California,Bakersfield,2778
+South,United States,Florida,Pompano Beach,2779
+East,United States,Ohio,Troy,2785
+Central,United States,Texas,Corpus Christi,2788
+West,United States,California,Redondo Beach,2794
+South,United States,Florida,Orlando,2863
+East,United States,New Jersey,Orange,2881
+South,United States,Louisiana,Lake Charles,2891
+Central,United States,Illinois,Highland Park,2904
+East,United States,New York,Hempstead,2912
+Central,United States,Indiana,Noblesville,2915
+Central,United States,Minnesota,Apple Valley,2928
+South,United States,South Carolina,Mount Pleasant,2979
+Central,United States,Michigan,Sterling Heights,3003
+Central,United States,Wisconsin,Eau Claire,3006
+Central,United States,Texas,Pharr,3017
+West,United States,Montana,Billings,3028
+West,United States,Oregon,Gresham,3030
+South,United States,Tennessee,Chattanooga,3041
+West,United States,Idaho,Meridian,3051
+West,United States,California,Apple Valley,3080
+Central,United States,Illinois,Bolingbrook,3094
+Central,United States,Minnesota,Maple Grove,3155
+West,United States,California,Woodland,3189
+Central,United States,Texas,Missouri City,3193
+Central,United States,Texas,Pearland,3211
+West,United States,California,San Mateo,3216
+Central,United States,Michigan,Grand Rapids,3251
+West,United States,California,Visalia,3272
+Central,United States,Kansas,Overland Park,3275
+West,United States,California,Temecula,3288
+West,United States,California,Yucaipa,3348
+East,United States,Massachusetts,Revere,3363
+Central,United States,Texas,Conroe,3378
+Central,United States,Illinois,Tinley Park,3403
+Central,United States,Iowa,Dubuque,3426
+Central,United States,Michigan,Dearborn Heights,3474
+West,United States,New Mexico,Santa Fe,3478
+South,United States,North Carolina,Hickory,3487
+Central,United States,Illinois,Carol Stream,3489
+Central,United States,Minnesota,Saint Cloud,3494
+South,United States,Florida,North Miami,3576
+Central,United States,Indiana,Lawrence,3655
+South,United States,Florida,Plantation,3658
+South,United States,Florida,Port Saint Lucie,3688
+South,United States,South Carolina,Rock Hill,3745
+Central,United States,Texas,Odessa,3756
+Central,United States,Wisconsin,West Allis,3763
+West,United States,California,Chula Vista,3778
+Central,United States,Kansas,Manhattan,3781
+East,United States,Pennsylvania,Altoona,3792
+West,United States,Colorado,Thornton,3859
+Central,United States,Illinois,Champaign,3865
+Central,United States,Indiana,Bloomington,3887
+South,United States,Arkansas,Texarkana,3896
+Central,United States,Texas,Edinburg,3899
+Central,United States,Texas,Baytown,3901
+Central,United States,Indiana,Greenwood,3940
+West,United States,California,Lakewood,3986
+East,United States,Rhode Island,Woonsocket,3990
+Central,United States,Wisconsin,Superior,4013
+Central,United States,Texas,Bedford,4026
+West,United States,Washington,Covington,4032
+Central,United States,Oklahoma,Broken Arrow,4074
+South,United States,Florida,Miramar,4075
+South,United States,Florida,Hollywood,4132
+Central,United States,Texas,Deer Park,4139
+Central,United States,Kansas,Wichita,4142
+Central,United States,Texas,Mcallen,4187
+Central,United States,Iowa,Iowa City,4190
+West,United States,Idaho,Boise,4193
+East,United States,Rhode Island,Cranston,4204
+Central,United States,Illinois,Freeport,4255
+Central,United States,Texas,Port Arthur,4285
+West,United States,California,Citrus Heights,4296
+Central,United States,Texas,The Colony,4304
+West,United States,Washington,Redmond,4332
+South,United States,Florida,Daytona Beach,4334
+West,United States,Arizona,Bullhead City,4336
+Central,United States,Indiana,Portage,4341
+Central,United States,North Dakota,Fargo,4363
+Central,United States,Indiana,Elkhart,4373
+West,United States,California,San Gabriel,4376
+South,United States,Florida,Margate,4422
+South,United States,Georgia,Sandy Springs,4423
+East,United States,Ohio,Mentor,4472
+Central,United States,Oklahoma,Lawton,4478
+South,United States,Virginia,Hampton,4515
+East,United States,New York,Rome,4526
+Central,United States,Wisconsin,La Crosse,4555
+West,United States,Idaho,Lewiston,4578
+South,United States,Mississippi,Hattiesburg,4581
+West,United States,California,Danville,4585
+Central,United States,Michigan,Mount Pleasant,4631
+West,United States,Utah,Logan,4677
+East,United States,Connecticut,Waterbury,4705
+South,United States,Georgia,Athens,4724
+East,United States,Maine,Lewiston,4736
+Central,United States,Illinois,Danville,4758
+West,United States,Arizona,Avondale,4772
+South,United States,Georgia,Marietta,4796
+West,United States,Arizona,Yuma,4823
+Central,United States,Wisconsin,Wausau,4831
+West,United States,Washington,Pasco,4850
+Central,United States,Illinois,Oak Park,4860
+South,United States,Florida,Pensacola,4879
+Central,United States,Texas,League City,4917
+East,United States,Maryland,Gaithersburg,4919
+West,United States,Utah,Lehi,4936
+South,United States,Alabama,Tuscaloosa,4937
+West,United States,California,Moreno Valley,5057
+South,United States,Kentucky,Georgetown,5060
+West,United States,Colorado,Loveland,5090
+West,United States,Arizona,Chandler,5148
+West,United States,Montana,Helena,5152
+Central,United States,Missouri,Kirkwood,5155
+Central,United States,Texas,Waco,5175
+Central,United States,Michigan,Roseville,5217
+Central,United States,Illinois,Frankfort,5248
+East,United States,Pennsylvania,Bethlehem,5255
+Central,United States,Minnesota,Roseville,5295
+Central,United States,Nebraska,Grand Island,5324
+Central,United States,Minnesota,Woodbury,5349
+Central,United States,Michigan,Oak Park,5371
+South,United States,Arkansas,Rogers,5387
+West,United States,New Mexico,Clovis,5412
+South,United States,Florida,Jupiter,5441
+West,United States,California,Santa Barbara,5527
+Central,United States,Texas,Cedar Hill,5530
+Central,United States,Nebraska,Norfolk,5539
+West,United States,Utah,Draper,5547
+Central,United States,Michigan,Ann Arbor,5635
+West,United States,California,La Mesa,5636
+West,United States,Idaho,Pocatello,5671
+Central,United States,Michigan,Holland,5679
+East,United States,Connecticut,Milford,5733
+Central,United States,Illinois,Buffalo Grove,5751
+West,United States,California,Lake Forest,5762
+West,United States,California,Redding,5766
+West,United States,California,Chico,5782
+East,United States,New York,Utica,5816
+South,United States,Arkansas,Conway,5860
+West,United States,Wyoming,Cheyenne,5870
+South,United States,Kentucky,Owensboro,5889
+West,United States,Idaho,Caldwell,5999
+South,United States,Louisiana,Kenner,6021
+East,United States,New Hampshire,Nashua,6032
+South,United States,Tennessee,Bartlett,6067
+West,United States,California,Redwood City,6116
+South,United States,Tennessee,Lebanon,6133
+West,United States,California,Santa Maria,6140
+Central,United States,Illinois,Des Plaines,6190
+West,United States,Washington,Longview,6213
+South,United States,Tennessee,Hendersonville,6223
+Central,United States,Iowa,Waterloo,6231
+East,United States,Massachusetts,Cambridge,6268
+Central,United States,Illinois,Palatine,6273
+East,United States,Massachusetts,Beverly,6296
+West,United States,Oregon,Eugene,6306
+West,United States,California,Oxnard,6312
+West,United States,Washington,Renton,6363
+Central,United States,Illinois,Glenview,6453
+South,United States,Florida,Delray Beach,6591
+West,United States,Colorado,Commerce City,6604
+Central,United States,Texas,Texas City,6625
+South,United States,North Carolina,Wilson,6630
+West,United States,New Mexico,Rio Rancho,6709
+South,United States,North Carolina,Goldsboro,6720
+West,United States,Washington,Everett,6807
+West,United States,California,Montebello,6835
+West,United States,California,El Cajon,6846
+Central,United States,Texas,Beaumont,6874
+South,United States,Florida,West Palm Beach,6914
+Central,United States,Texas,Abilene,6990
+Central,United States,Illinois,Normal,7002
+Central,United States,Missouri,Saint Charles,7141
+Central,United States,Illinois,Saint Charles,7204
+West,United States,California,Camarillo,7214
+West,United States,Oregon,Hillsboro,7318
+West,United States,California,Burbank,7328
+West,United States,California,Modesto,7352
+Central,United States,Kansas,Garden City,7371
+East,United States,New Jersey,Atlantic City,7505
+West,United States,Colorado,Longmont,7532
+West,United States,California,Davis,7889
+East,United States,West Virginia,Wheeling,7895
+West,United States,California,Morgan Hill,7909
+East,United States,New Jersey,Clifton,7982
+Central,United States,Wisconsin,Sheboygan,7988
+South,United States,Georgia,East Point,8077
+Central,United States,South Dakota,Rapid City,8150
+East,United States,Massachusetts,Andover,8332
+South,United States,Florida,Kissimmee,8365
+East,United States,Connecticut,Shelton,8384
+East,United States,Connecticut,Danbury,8392
+Central,United States,Iowa,Marion,8416
+South,United States,Florida,Sanford,8564
+Central,United States,Texas,San Marcos,8581
+West,United States,Colorado,Greeley,8592
+Central,United States,Texas,Mansfield,8678
+East,United States,Ohio,Elyria,8716
+West,United States,Idaho,Twin Falls,8783
+South,United States,Florida,Coral Gables,8922
+Central,United States,Illinois,Romeoville,8981
+East,United States,Massachusetts,Marlborough,9028
+East,United States,Maryland,Laurel,9132
+Central,United States,Texas,Bryan,9224
+South,United States,Arkansas,Pine Bluff,9253
+Central,United States,South Dakota,Aberdeen,9261
+East,United States,Maryland,Hagerstown,9294
+East,United States,New Jersey,East Orange,9377
+Central,United States,Illinois,Arlington Heights,9400
+Central,United States,Illinois,Oswego,9479
+Central,United States,Minnesota,Coon Rapids,9648
+West,United States,California,San Clemente,9668
+West,United States,California,Dublin,9672
+West,United States,California,San Luis Obispo,9702
+South,United States,Arkansas,Springdale,9761
+West,United States,California,Lodi,9802
+Central,United States,Texas,La Porte,9835
+East,United States,Ohio,Mason,9869
+South,United States,Georgia,Woodstock,9882
