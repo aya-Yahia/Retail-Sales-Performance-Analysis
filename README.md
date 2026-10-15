@@ -51,3 +51,44 @@ The BI solution is engineered to answer:
 | **Sales Growth Rate (%)** | Period-over-period sales growth |
 | **Revenue per Customer** | Average revenue contribution per customer |
 | **Top Product Contribution (%)** | Percentage of total revenue from top products |
+
+##  Dashboard Showcase
+
+### Dashboard Page 1: Key Performance Indicators & Global Sales/Profit Overview
+*Features high-level executive cards (**$2.30M** total sales, **$286.40K** profit, **0.12** profit margin, and **$229.86** AOV), global geographic distribution maps, and macro-level sales trends.*
+![Dashboard Overview](dashboard2.png)[cite: 2]
+
+### Dashboard Page 2: Product & Sub-Category Performance Analysis
+*Provides granular deep-dives into category performance, top 10 products by sales, sub-category profit breakdowns, and individual product scatter analysis.*
+![Dashboard Deep Dive](dashboard1.png)[cite: 1]
+
+---
+
+##  Key Insights & Findings
+
+* **Top Driver:** **Technology** is the most profitable product category.
+* **Profitability Risks:** Specific sub-categories (e.g., **Tables**) are consistently operating at a loss.
+* **Growth Trend:** Sales show a strong upward trend over time with clear historical growth patterns.
+
+---
+
+##  Business Recommendations
+
+1. **Invest Capital:** Increase investment and stock allocation in high-profit categories and top-performing products.
+2. **Optimize Sub-Categories:** Reevaluate, reprice, or optimize loss-making sub-categories (such as tables).
+3. **Strategic Planning:** Use historical sales trends for demand forecasting and inventory planning.
+4. **Margin Expansion:** Implement strategic initiatives to improve profitability in low-margin categories.
+
+---
+
+## ⚠️ Limitations & Future Improvements
+
+### Limitations
+* **Historical Data Only:** Analysis relies strictly on historical transactional records.
+* **Limited Granularity:** Restricted cost granularity and limited customer detail.
+* **External Factors:** Macroeconomic variables, marketing campaigns, and competitor pricing are excluded.
+
+### Future Improvements
+* **Real-Time Data Integration:** Connect live data pipelines for real-time reporting.
+* **Predictive Analytics:** Implement forecasting models for advanced sales predictions.
+* **Customer Segmentation:** Apply advanced behavioral segmentation (e.g., RFM analysis).
